@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": { "mkopras\\DomPdfBundle": "" }
+        "psr-0": { "Mkopras\\DomPdfBundle": "" }
     },
-    "target-dir": "mkopras/DomPdfBundle"
+    "target-dir": "Mkopras/DomPdfBundle"
 }

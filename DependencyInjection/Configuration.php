@@ -1,6 +1,6 @@
 <?php
 
-namespace mkopras\DomPdfBundle\DependencyInjection;
+namespace Mkopras\DomPdfBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
