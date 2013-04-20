@@ -10,5 +10,9 @@
             "email": "m.kopras@erunner.eu"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "mkopras\\DomPdfBundle": "" }
+    },
+    "target-dir": "mkopras/DomPdfBundle"
 }
