@@ -6,11 +6,11 @@
 
     <!--
     <parameters>
-        <parameter key="mkopras_dom_p_df.example.class">mkopras\DomPDfBundle\Example</parameter>
+        <parameter key="mkopras_dom_p_df.example.class">mkopras\DomPdfBundle\Example</parameter>
     </parameters>
 
     <services>
-        <service id="mkopras_dom_p_df.example" class="%mkopras_dom_p_df.example.class%">
+        <service id="mkopras_dom_pdf.example" class="%mkopras_dom_pdf.example.class%">
             <argument type="service" id="service_id" />
             <argument>plain_value</argument>
             <argument>%parameter_name%</argument>

@@ -1,6 +1,6 @@
 <?php
 
-namespace mkopras\DomPDfBundle\Tests\Controller;
+namespace mkopras\DomPdfBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

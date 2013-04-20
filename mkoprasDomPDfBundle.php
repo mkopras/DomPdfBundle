@@ -1,9 +1,9 @@
 <?php
 
-namespace mkopras\DomPDfBundle;
+namespace mkopras\DomPdfBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class mkoprasDomPDfBundle extends Bundle
+class mkoprasDomPdfBundle extends Bundle
 {
 }
