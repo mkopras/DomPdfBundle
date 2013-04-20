@@ -1,0 +1,13 @@
+{
+    "name": "mkopras/dom-pdf-bundle",
+    "description": "DOM PDF Bundle",
+    "require": {
+        "dompdf/dompdf": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Mikołaj Kopras",
+            "email": "m.kopras@erunner.eu"
+        }
+    ]
+}
