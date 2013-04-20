@@ -9,5 +9,6 @@
             "name": "Mikołaj Kopras",
             "email": "m.kopras@erunner.eu"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
